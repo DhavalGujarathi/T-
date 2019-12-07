@@ -17,14 +17,14 @@ Example file :
 <pre>
 10          -----> nr
 10          -----> nc
-5            -----> nobs
+5           -----> nobs
 1 2         -----> 'nobs' lines (ex. these is an obstacle at coord (1,2) in the workspace)
 3 4
 5 6
 9 5
 3 9
-4            -----> np
-5 5 1      -----> 'np' lines (ex. at (5,5) , proposition 1 is true)
+4           -----> np
+5 5 1       -----> 'np' lines (ex. at (5,5) , proposition 1 is true)
 6 6 2
 2 2 3
 3 3 4
